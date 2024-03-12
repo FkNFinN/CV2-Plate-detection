@@ -5,6 +5,7 @@ Base on code from analytics/yolov5 for the infrastructure.
 For the library, powershell—
 
 pip install -r requirements.txt
+
 pillow
 json
 numpy
